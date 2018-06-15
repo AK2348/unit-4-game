@@ -1,0 +1,64 @@
+body {
+    background-image: url("../images/background.jpg");
+	margin: 0px;
+	padding: 0px;
+}
+
+.jumbotron {
+	background-color: slategrey;
+	color: whitesmoke;
+}
+
+.target-number {
+	background-color: grey;
+	border-style: solid;
+	border-color:slategray;
+    border-width: 4px;
+    color: whitesmoke;
+    padding-top: 20px;
+    margin-top:45px;
+}
+
+.win-lose-counter {
+	background-color: grey;
+	border-style: solid;
+	border-color: slategray;
+    border-width: 4px;
+    color: whitesmoke;
+    padding-top: 20px; 
+    margin-top:45px;
+}
+
+.crystal-images {
+	margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.crystal {
+    margin: 20px;
+    height: 100px;
+    width: 75px;
+    
+}
+
+.score-number {
+	color: whitesmoke;
+    background-color: grey;
+    border-style: solid;
+	border-color: slategray;
+    border-width: 4px;
+    padding: 10px;
+}
+
+.panel-body {
+    background-color:grey;
+    color: whitesmoke;
+    border-style: solid;
+	border-color: slategray;
+    border-width: 4px;
+    padding: 10px;
+}
+
+.panel-heading {
+    color: slategrey;
+}
